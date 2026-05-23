@@ -1,0 +1,12 @@
+{
+  "name": "Agenda Legal — F. Pedraza",
+  "short_name": "Agenda Legal",
+  "description": "Agendador legal con Google Calendar",
+  "start_url": "/agenda-legal/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#2c4a8c",
+  "icons": [
+    { "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/event/materialicons/48dp/1x/baseline_event_white_48dp.png", "sizes": "48x48", "type": "image/png" }
+  ]
+}
